@@ -8,3 +8,4 @@ now again uplloading from ec2
 why green color is here
 isn't conflict solved?
 now check if conflict is resolved?
+now updating fiile from local machine to se if conflict resolved???
