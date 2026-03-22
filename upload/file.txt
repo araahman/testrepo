@@ -1,1 +1,9 @@
 file
+this is updated from ec2
+this is updated from local machine
+updated again from local
+updating from ec2 5th line
+now updatinf=g same file from local
+now again uplloading from ec2
+why green color is here
+isn't conflict solved?
