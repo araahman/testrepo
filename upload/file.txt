@@ -7,3 +7,4 @@ now updatinf=g same file from local
 now again uplloading from ec2
 why green color is here
 isn't conflict solved?
+now check if conflict is resolved?
